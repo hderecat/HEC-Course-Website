@@ -1,2 +1,8 @@
 # **Welcome to HEC - Tech, Data and the Innovation Mindset!**
 ##  Professor Ghislain Mazars
+
+$ git init # 1
+$ git remote add origin https://github.com/<your_name>/<your_repo_name> # 2
+$ git add -A # 3
+$ git commit -m "initial commit 2.0" # 4
+$ git push -f origin master # 5
