@@ -1,1 +1,3 @@
 jekyll build
+
+theme: jekyll-theme-minimal
